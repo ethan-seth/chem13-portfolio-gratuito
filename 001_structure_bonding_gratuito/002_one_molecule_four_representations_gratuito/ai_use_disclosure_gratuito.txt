@@ -1,6 +1,6 @@
 AI USE DISCLOSURE
 
-Artificial intelligence was used during the preparation of this activity strictly as a learning support tool for verification. Specifically, AI assistance was utilized to verify the correct subscript formatting for condensed structural formulas, confirm the accuracy of drawn Lewis structures, and check that the digital portfolio's visual layout and GitHub Markdown files complied with the assignment's formatting rubric.
+Artificial intelligence (ChatGPT) was used during the preparation of this activity strictly as a learning support tool for verification. Specifically, AI assistance was utilized to verify the correct subscript formatting for condensed structural formulas, confirm the accuracy of drawn Lewis structures, and check that the digital portfolio's visual layout and GitHub Markdown files complied with the assignment's formatting rubric.
 
 All molecular representations, including the molecular formulas, digital Lewis structures, condensed structural formulas, and Ketcher bond-line structures, were actively constructed, reviewed, and independently verified against course materials. As required, the student remains responsible for the correctness of every submitted structure, formula, label, and interpretation.
 
