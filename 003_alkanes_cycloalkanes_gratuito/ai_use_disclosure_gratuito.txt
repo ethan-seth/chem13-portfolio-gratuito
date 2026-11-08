@@ -1,0 +1,13 @@
+AI USE DISCLOSURE STATEMENT
+Course: CHEM 13 | Organic Chemistry (Lecture) Activity: Asynchronous Activity No. 3 — Name It, Draw It
+Tools Utilized:
+•	Primary AI Assistant: Gemini 
+•	Required Checker Tool: The Alkane (https://thealkane.com/)
+
+Nature and Extent of Assistance:
+•	Concept Clarification: Consulted the AI to break down specific IUPAC nomenclature rules, such as identifying complex parent chains, applying alphabetical tie-breakers, and properly formatting substituent names.
+•	Troubleshooting and Verification: Used the AI as a sounding board to cross-reference my manual naming trails, verify molecular formula calculations, and help explain discrepancies between my derived names and the tool's returned names.
+•	File and Layout Organization: Relied on AI guidance to ensure the 20-card digital portfolio was formatted correctly and that the GitHub repository files were structured according to the activity rubric.
+•	Structure Drawing (The Alkane): As required by the activity instructions, I used this web tool to build my decoded structures and generate back-checks for my manually determined IUPAC names.
+
+Statement of Academic Responsibility: I have critically reviewed all AI-provided explanations and tool-assisted outputs. I claim full responsibility for the final accuracy of the naming trails, bond-line structures, molecular formulas, and formatting decisions presented in my submission.
